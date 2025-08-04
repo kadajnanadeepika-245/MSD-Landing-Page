@@ -5,7 +5,7 @@ A clean, modern, and responsive landing page inspired by [Mamaearth](https://mam
 
 ## 🖼 Preview
 
-![Landing Page Preview](images/preview.png)
+![Landing Page Preview](https://github.com/kadajnanadeepika-245/MSD-Landing-Page/blob/main/Screenshot%202025-08-04%20201650.png)
 
 ## 🚀 Live Demo
 
