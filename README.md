@@ -22,15 +22,6 @@ A clean, modern, and responsive landing page inspired by [Mamaearth](https://mam
 - Customer testimonials
 - Simple, clean footer with useful links
 
-## 📁 Folder Structure
-
--landing-page/
--├── images/ # Product and banner images
--├── index.html # Main HTML page
--├── styles.css # Styling for the page
--└── README.md # Project documentation
-
-
 ## 🛠 Tech Stack
 
 - HTML5  
