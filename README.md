@@ -37,8 +37,3 @@ landing-page/
 - CSS3  
 - No JavaScript or external frameworks
 
-## 🖼 Preview
-
-> Add a screenshot of the website below:
-![Landing Page Preview](images/preview.png)
-
