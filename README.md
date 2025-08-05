@@ -9,7 +9,7 @@ A clean, modern, and responsive landing page inspired by [Mamaearth](https://mam
 
 ## 🚀 Live Demo
 
-👉 [**View Live Preview**](https://landingpagedeepika.netlify.app/)  
+👉 [**View Live Preview**](https://landingpagemamaearth.netlify.app/)  
 
 
 ## ✨ Features
